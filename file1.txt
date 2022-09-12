@@ -1,6 +1,6 @@
 Hello World
 Hi
 Hello
-Hello Universe Hello
+Hello Universe
 Hello Hello
 Huhu
