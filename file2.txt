@@ -1,2 +1,4 @@
 Hi GM
-Hi GN
+Hi GNOn branch master
+nothing to commit, working tree clean
+HiHi
